@@ -58,3 +58,8 @@ def genero_fixing(x):
 def int_converter(x):
 
     return str(x)
+
+
+def dfinal_fix(x):
+
+    
