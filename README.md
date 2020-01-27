@@ -4,7 +4,7 @@
 _En este proyecto se estudia la relación existente entre los ataques de tiburones producidos en el último siglo y las películas producidas del mismo ámbito_
 
 
-## Starting 🚀
+## Para empezar 🚀
 
 _Para observar el análisis pormenorizado es necesario disponer de un visualizador de formato 'ipynb'._
 
